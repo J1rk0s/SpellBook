@@ -1,0 +1,7 @@
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\bin\Debug\SpellBook.exe
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\bin\Debug\SpellBook.pdb
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\obj\Debug\SpellBook.csproj.AssemblyReference.cache
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\obj\Debug\SpellBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\obj\Debug\SpellBook.csproj.CoreCompileInputs.cache
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\obj\Debug\SpellBook.exe
+C:\Users\jiriv\RiderProjects\SpellBook\SpellBook\obj\Debug\SpellBook.pdb

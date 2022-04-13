@@ -1,0 +1,1 @@
+﻿Fire;Air;Earth;Water;Ice;Shadow;Poison;Slowing;Fierce;Holy;Stealth;Power;Dark;Storm;Healing;Lava;Fiery;Piercing;Explosive;Sun;Soul;Reaping;Impaling

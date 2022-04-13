@@ -1,0 +1,1 @@
+﻿Arrow;Strike;Bolt;Missile;Swing;Attack;Blow;Armor;Aura;Wind;Shards;Claw;Chains;Shot;Shell;Axe;Smash;Stance;Spear;Wave;Barrier;Field;Nova;Orb;Glyph
