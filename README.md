@@ -1,2 +1,2 @@
 # SpellBook
-Added db for spells :+1
+Added db for spells :+1:
