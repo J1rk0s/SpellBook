@@ -126,7 +126,7 @@ namespace SpellBook
                                 Console.ForegroundColor = ConsoleColor.Yellow;
                                 foreach (var x in SpellList)
                                 {
-                                    Console.WriteLine($"Name: {x.Name}\nCost: {x.SpellCost}\nDamage: {x.Dmg}\nTier: {x.Tier}\n");
+                                    Console.WriteLine($"Name: {x.Name}\nCost: {x.SpellCost}\nDamage: {x.Dmg}\nTier: {x.Tier}\nQuality: {x.Quality}\n");
                                 }
                                 Console.ResetColor();
                                 break;

@@ -38,7 +38,7 @@ namespace SpellBook.Classes
             Console.ForegroundColor = ConsoleColor.Yellow;
             foreach (var x in spBook)
             {
-                Console.WriteLine($"Name: {x.Name}\nCost: {x.SpellCost}\nDmg: {x.Dmg}\nTier: {x.Tier}\n");
+                Console.WriteLine($"Name: {x.Name}\nCost: {x.SpellCost}\nDmg: {x.Dmg}\nTier: {x.Tier}\nQuality: {x.Quality}\n");
             }
             Console.ResetColor();
         }
