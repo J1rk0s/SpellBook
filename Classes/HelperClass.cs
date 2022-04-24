@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace SpellBook.Classes
@@ -6,6 +7,8 @@ namespace SpellBook.Classes
     public class HelperClass
     {
         public static readonly Random Rnd = new Random();
+        public static readonly List<string> Tiers = new List<string>() {"Novice", "Intermediate", "Advanced", "Expert", "Master"};
+        public static readonly List<string> Quality = new List<string>() {"Basic", "Demonic", "Legendary", "Exquisite", "Unreal", "Poor", "Awfull"};
 
         public static string[] ArrayFromText(string path)
         {
